@@ -81,7 +81,7 @@ namespace CrossTheBridge
         }
 
         /// <summary>
-        /// Ha a két legkisebb sebességű személy az AParton található, akkor átküldi őket az A partról a B partra.
+        /// Ha a két leggyorsabb személy az AParton található, akkor átküldi őket az A partról a B partra.
         /// </summary>
         /// <param name="APart"></param>
         /// <param name="BPart"></param>
