@@ -1,0 +1,6 @@
+c:\users\szant\documents\visual studio 2015\Projects\CrossTheBridge\CrossTheBridge\bin\Debug\CrossTheBridge.exe.config
+c:\users\szant\documents\visual studio 2015\Projects\CrossTheBridge\CrossTheBridge\bin\Debug\CrossTheBridge.exe
+c:\users\szant\documents\visual studio 2015\Projects\CrossTheBridge\CrossTheBridge\bin\Debug\CrossTheBridge.pdb
+c:\users\szant\documents\visual studio 2015\Projects\CrossTheBridge\CrossTheBridge\obj\Debug\CrossTheBridge.csprojResolveAssemblyReference.cache
+c:\users\szant\documents\visual studio 2015\Projects\CrossTheBridge\CrossTheBridge\obj\Debug\CrossTheBridge.exe
+c:\users\szant\documents\visual studio 2015\Projects\CrossTheBridge\CrossTheBridge\obj\Debug\CrossTheBridge.pdb

@@ -1,0 +1,9 @@
+c:\users\szant\documents\visual studio 2015\Projects\CrossTheBridge\CrossTheBridge.Tests\bin\Debug\CrossTheBridge.Tests.dll
+c:\users\szant\documents\visual studio 2015\Projects\CrossTheBridge\CrossTheBridge.Tests\bin\Debug\CrossTheBridge.Tests.pdb
+c:\users\szant\documents\visual studio 2015\Projects\CrossTheBridge\CrossTheBridge.Tests\bin\Debug\CrossTheBridge.exe
+c:\users\szant\documents\visual studio 2015\Projects\CrossTheBridge\CrossTheBridge.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\szant\documents\visual studio 2015\Projects\CrossTheBridge\CrossTheBridge.Tests\bin\Debug\CrossTheBridge.pdb
+c:\users\szant\documents\visual studio 2015\Projects\CrossTheBridge\CrossTheBridge.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\szant\documents\visual studio 2015\Projects\CrossTheBridge\CrossTheBridge.Tests\obj\Debug\CrossTheBridge.Tests.csprojResolveAssemblyReference.cache
+c:\users\szant\documents\visual studio 2015\Projects\CrossTheBridge\CrossTheBridge.Tests\obj\Debug\CrossTheBridge.Tests.dll
+c:\users\szant\documents\visual studio 2015\Projects\CrossTheBridge\CrossTheBridge.Tests\obj\Debug\CrossTheBridge.Tests.pdb
